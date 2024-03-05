@@ -2,6 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fruitchimeow.github.io/blog/2023/08/24/230824_taking_note/</loc>
+    
+    <lastmod>2024-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fruitchimeow.github.io/blog/2021/11/18/hakonenoyama/</loc>
+    
+    <lastmod>2024-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fruitchimeow.github.io/blog/2022/05/31/as_habit/</loc>
+    
+    <lastmod>2024-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fruitchimeow.github.io/blog/2023/04/30/230430_morimiko/</loc>
+    
+    <lastmod>2024-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fruitchimeow.github.io/blog/2022/12/31/221231_Spitz/</loc>
+    
+    <lastmod>2024-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fruitchimeow.github.io/blog/2023/07/10/230710_murmuratkaohsiungsummer/</loc>
+    
+    <lastmod>2024-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fruitchimeow.github.io/blog/2020/08/20/writing_in_my_life/</loc>
+    
+    <lastmod>2024-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fruitchimeow.github.io/blog/2022/06/29/goals/</loc>
+    
+    <lastmod>2024-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fruitchimeow.github.io/blog/2022/07/31/efficiently_learn/</loc>
+    
+    <lastmod>2024-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://fruitchimeow.github.io/blog/2024/02/29/240229_gegege/</loc>
     
     <lastmod>2024-02-29</lastmod>
@@ -47,15 +128,6 @@
   </url>
   
   <url>
-    <loc>https://fruitchimeow.github.io/blog/2022/05/31/as_habit/</loc>
-    
-    <lastmod>2023-10-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://fruitchimeow.github.io/blog/2021/12/25/girl_senior_high-1/</loc>
     
     <lastmod>2023-10-29</lastmod>
@@ -75,15 +147,6 @@
   
   <url>
     <loc>https://fruitchimeow.github.io/blog/2022/03/31/2022March/</loc>
-    
-    <lastmod>2023-10-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fruitchimeow.github.io/blog/2022/12/31/221231_Spitz/</loc>
     
     <lastmod>2023-10-29</lastmod>
     
@@ -119,15 +182,6 @@
   </url>
   
   <url>
-    <loc>https://fruitchimeow.github.io/blog/2023/08/24/230824_taking_note/</loc>
-    
-    <lastmod>2023-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://fruitchimeow.github.io/blog/2023/09/30/230930_watching-movie-in-summer/</loc>
     
     <lastmod>2023-09-30</lastmod>
@@ -140,15 +194,6 @@
     <loc>https://fruitchimeow.github.io/blog/2023/07/16/230716_2022recap/</loc>
     
     <lastmod>2023-07-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fruitchimeow.github.io/blog/2023/07/10/230710_murmuratkaohsiungsummer/</loc>
-    
-    <lastmod>2023-07-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -200,24 +245,6 @@
   </url>
   
   <url>
-    <loc>https://fruitchimeow.github.io/blog/2023/04/30/230430_morimiko/</loc>
-    
-    <lastmod>2023-04-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fruitchimeow.github.io/blog/2020/08/20/writing_in_my_life/</loc>
-    
-    <lastmod>2023-01-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://fruitchimeow.github.io/blog/2021/09/05/whisper/</loc>
     
     <lastmod>2023-01-01</lastmod>
@@ -236,34 +263,7 @@
   </url>
   
   <url>
-    <loc>https://fruitchimeow.github.io/blog/2022/06/29/goals/</loc>
-    
-    <lastmod>2022-12-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fruitchimeow.github.io/blog/2021/11/18/hakonenoyama/</loc>
-    
-    <lastmod>2022-12-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://fruitchimeow.github.io/blog/2022/01/31/uni_classroom/</loc>
-    
-    <lastmod>2022-12-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://fruitchimeow.github.io/blog/2022/07/31/efficiently_learn/</loc>
     
     <lastmod>2022-12-28</lastmod>
     
@@ -297,7 +297,14 @@
   </url>
   
   <url>
-    <loc>https://fruitchimeow.github.io/blog/categories/%E6%B2%92%E4%BA%8B%E5%B0%B1%E6%98%AF%E5%AF%AB%E5%AF%AB%E5%AF%AB/</loc>
+    <loc>https://fruitchimeow.github.io/blog/categories/%E5%97%9C%E5%A5%BD-%E5%BD%B1%E8%A6%96%E6%84%9F%E6%83%B3/</loc>
+    <lastmod>2024-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://fruitchimeow.github.io/blog/categories/%E5%81%B6%E7%84%B6%E5%86%92%E5%87%BA%E7%9A%84%E6%83%B3%E6%B3%95%E5%80%91/</loc>
     <lastmod>2024-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
