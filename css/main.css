@@ -759,8 +759,8 @@ sup > a::before,
   padding: 3rem 0;
 }
 html {
-  font-size: 16px;
-  letter-spacing: 0.02em;
+  font-size: 17px;
+  letter-spacing: 0.04em;
 }
 html,
 body {
