@@ -828,17 +828,17 @@ i.iconfont {
 }
 :root {
   --color-mode: "light";
-  --body-bg-color: #eee;
-  --board-bg-color: #FFFFF3;
+  --body-bg-color: #f2e9e1;
+  --board-bg-color: #FFFFF2;
   --text-color: #3c4858;
   --sec-text-color: #718096;
   --post-text-color: #2c3e50;
   --post-heading-color: #1a202c;
-  --post-link-color: #0366d6;
-  --link-hover-color: #D09E88;
-  --link-hover-bg-color: #f2e9e1;
+  --post-link-color: #881600;
+  --link-hover-color: #a79c8e;
+  --link-hover-bg-color: #f4f7f7;
   --line-color: #eaecef;
-  --navbar-bg-color: #a79c8e;
+  --navbar-bg-color: #754F44;
   --navbar-text-color: #fff;
   --subtitle-color: #fff;
   --scrollbar-color: #c4c6c9;
