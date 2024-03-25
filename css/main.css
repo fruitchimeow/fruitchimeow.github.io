@@ -828,13 +828,13 @@ i.iconfont {
 }
 :root {
   --color-mode: "light";
-  --body-bg-color: #fffff5;
-  --board-bg-color: #fffff5;
+  --body-bg-color: #eee;
+  --board-bg-color: #FFFFF3;
   --text-color: #3c4858;
   --sec-text-color: #718096;
   --post-text-color: #2c3e50;
   --post-heading-color: #1a202c;
-  --post-link-color: #754F44;
+  --post-link-color: #0366d6;
   --link-hover-color: #D09E88;
   --link-hover-bg-color: #f2e9e1;
   --line-color: #eaecef;
