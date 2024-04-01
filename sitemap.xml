@@ -37,15 +37,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://fruitchimeow.github.io/testtwittercard/</loc>
-    
-    <lastmod>2022-10-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://fruitchimeow.github.io/</loc>
