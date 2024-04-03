@@ -2,6 +2,25 @@
 <search> 
   
   
+    
+    <entry>
+      <title>test</title>
+      <link href="/test/"/>
+      <url>/test/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/img/test/testimg.png" alt="測試用圖片"><br>這是一篇測試文章。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活絮語 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
   
   
 </search>
