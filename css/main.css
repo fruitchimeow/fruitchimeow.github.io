@@ -1019,7 +1019,7 @@ figure .pin-copy {
 
 /* light scheme */
 :root[color-mode="light"] {
-  --bg-body: #FFFFFF;
+  --bg-body: #fffdf9;
   --color-text-base: #666;
   --color-text-a: #666;
   --color-text-a-hover: #000000;
