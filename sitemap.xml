@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://fruitchimeow.github.io/blog/honey-and-clover/</loc>
+    
+    <lastmod>2024-06-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://fruitchimeow.github.io/blog/murmur/</loc>
     
     <lastmod>2024-05-30</lastmod>
@@ -292,7 +301,7 @@
 
   <url>
     <loc>https://fruitchimeow.github.io/blog</loc>
-    <lastmod>2024-05-30</lastmod>
+    <lastmod>2024-06-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
