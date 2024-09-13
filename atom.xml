@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>果子喵的走跳日常</title>
-  
+  <icon>https://fruitchimeow.github.io/img/fruitchi.png</icon>
   <subtitle>回憶散落一地的房間</subtitle>
   <link href="https://fruitchimeow.github.io/atom.xml" rel="self"/>
   
