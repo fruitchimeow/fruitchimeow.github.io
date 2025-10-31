@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.fruitchimeow.com/after-traveling/</loc>
+    
+    <lastmod>2025-10-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.fruitchimeow.com/writing-anxiety/</loc>
     
     <lastmod>2025-09-29</lastmod>
@@ -436,7 +445,7 @@
 
   <url>
     <loc>https://blog.fruitchimeow.com/</loc>
-    <lastmod>2025-09-29</lastmod>
+    <lastmod>2025-10-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
